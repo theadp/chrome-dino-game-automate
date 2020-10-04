@@ -9,7 +9,7 @@ function autoPlay()
 		myinstance = this.Runner.instance_;
 		myobstacles = myinstance.horizon.obstacles;
 
-		myinstance.setSpeed(9);
+		myinstance.setSpeed(10);
 
 		if(myinstance.tRex.ducking)
 		{
